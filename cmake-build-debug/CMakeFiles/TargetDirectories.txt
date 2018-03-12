@@ -1,0 +1,3 @@
+/Users/francisco/Desktop/lpa_prob2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/francisco/Desktop/lpa_prob2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francisco/Desktop/lpa_prob2/cmake-build-debug/CMakeFiles/lpa_prob2.dir
